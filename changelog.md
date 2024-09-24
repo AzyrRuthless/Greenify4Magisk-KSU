@@ -1,6 +1,9 @@
 ## Changelog?:
 All notable changes to this project will be documented in this file.
 
+### 2024-10-24
+- Refactor sum codes (I know my code still sucks, but hey, I'm trying my best)
+
 ### 2024-10-16
 - Initial build from me
 - Updated to Latest MMT Template
