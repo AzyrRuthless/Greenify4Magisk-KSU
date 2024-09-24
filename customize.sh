@@ -8,9 +8,9 @@
 # Config Flags
 ##########################################################################################
 
-# Uncomment and change 'MINAPI' and 'MAXAPI' to the minimum and maximum Android version for your mod
-# Uncomment DYNLIB if you want libs installed to vendor for Oreo+ and system for anything older
-# Uncomment PARTOVER if you have a workaround in place for extra partitions in regular Magisk install (can mount them yourself - you will need to do this each boot as well). If unsure, keep commented
+# Uncomment and change 'MINAPI' and 'MAXAPI' to the minimum and maximum android version for your mod
+# Uncomment DYNLIB if you want libs installed to vendor for oreo+ and system for anything older
+# Uncomment PARTOVER if you have a workaround in place for extra partitions in regular magisk install (can mount them yourself - you will need to do this each boot as well). If unsure, keep commented
 # Uncomment PARTITIONS and list additional partitions you will be modifying (other than system and vendor), for example: PARTITIONS="/odm /product /system_ext"
 MINAPI=28
 MAXAPI=35
@@ -45,7 +45,7 @@ REPLACE="
 set_permissions() {
   : # Remove this if adding to this function
 
-  # Note that all files/folders in Magisk module directory have the $MODPATH prefix - keep this prefix on all of your files/folders
+  # Note that all files/folders in magisk module directory have the $MODPATH prefix - keep this prefix on all of your files/folders
   # Some examples:
   
   # For directories (includes files in them):
