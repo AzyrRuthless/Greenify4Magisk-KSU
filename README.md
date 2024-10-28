@@ -1,7 +1,7 @@
 <h1 align="center">Greenify4Magisk-KSU</h1>
 
 > **Warning** </br>
-> This module has been updated with the latest MMT-Extended template and greenify app. These updates are available in a distinct branch named `template-update`.
+> This module has been updated with the latest MMT-Extended template and greenify app.
 
 ## Module Explanation:
 This module allows Greenify to function as a system-integrated (privileged) app without modifying the ROM, enabling Boost Mode. It optimizes hibernation performance beyond the standard root option by injecting the APK into /system/priv-app. If the app appears as "Privileged" in the settings, the setup is complete.
