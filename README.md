@@ -10,8 +10,7 @@ Note:
 - Follow [mm recovery module](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases) instructions in case of bootloop to disable/remove this module.
 - Custom MIUI mod ROMs (EU, VN, PL) might require latest DFE.
 
-### If after installing this module in KSU and rebooting, the Greenify app won't open, just download the APK, then install and overwrite it.
-Not sure why this only happens with KSU (haven't tested it on APatch), but rn, I have a skill issue to fixing it lol. I did try another method so the app would open right away after flashing it through KSU (without needing to install the APK again), but the "Privileged Mode" in Greenify disappeared💀.
+### If after installing this module in KSU and rebooting, the Greenify app won't open, DisableUmount modules by default in KSU Settings, or just download the APK, then install and overwrite it.
 
 
 
