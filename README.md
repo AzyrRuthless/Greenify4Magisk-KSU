@@ -1,7 +1,7 @@
 <h1 align="center">Greenify4Magisk-KSU</h1>
 
 > **Warning** </br>
-> This module has been updated with the latest MMT-Extended template and greenify app. These updates are available in a distinct branch named `template-update`.
+> This module has been updated with the latest MMT-Extended template and greenify app.
 
 ## Module Explanation:
 This module allows Greenify to function as a system-integrated (privileged) app without modifying the ROM, enabling Boost Mode. It optimizes hibernation performance beyond the standard root option by injecting the APK into /system/priv-app. If the app appears as "Privileged" in the settings, the setup is complete.
@@ -10,8 +10,8 @@ Note:
 - Follow [mm recovery module](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases) instructions in case of bootloop to disable/remove this module.
 - Custom MIUI mod ROMs (EU, VN, PL) might require latest DFE.
 
-### If after installing this module in KSU and rebooting, the Greenify app won't open, just download the APK, then install and overwrite it.
-Not sure why this only happens with KSU (haven't tested it on APatch), but rn, I have a skill issue to fixing it lol. I did try another method so the app would open right away after flashing it through KSU (without needing to install the APK again), but the "Privileged Mode" in Greenify disappeared💀.
+### If after installing this module in KSU and rebooting, the Greenify app won't open
+Disable Umount modules by default in KSU Settings or Disable Unmount Specifically For Greenify, or just download the APK, then install and overwrite it.
 
 
 
