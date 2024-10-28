@@ -10,7 +10,8 @@ Note:
 - Follow [mm recovery module](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases) instructions in case of bootloop to disable/remove this module.
 - Custom MIUI mod ROMs (EU, VN, PL) might require latest DFE.
 
-### If after installing this module in KSU and rebooting, the Greenify app won't open, DisableUmount modules by default in KSU Settings, or just download the APK, then install and overwrite it.
+### If after installing this module in KSU and rebooting, the Greenify app won't open
+Disable Umount modules by default in KSU Settings or Disable Unmount Specifically For Greenify, or just download the APK, then install and overwrite it.
 
 
 
